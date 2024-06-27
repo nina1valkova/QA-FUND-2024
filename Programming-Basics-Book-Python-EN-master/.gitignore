@@ -1,0 +1,26 @@
+# Node rules:
+## Grunt intermediate storage
+.grunt
+
+## NPM dependency directory
+node_modules
+
+# Book build output
+_book
+
+# eBook build output
+*.epub
+*.mobi
+*.pdf
+
+**/*.DS_Store
+
+# VScode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# PyCharm
+.idea/*
